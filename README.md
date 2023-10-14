@@ -9,7 +9,6 @@
 This repository contains a Jupyter notebook that demonstrates the use of *k*-Nearest Neighbors (KNN) regression to predict hydropower consumption based on historical data.
 
 ## 📖 Table of Contents
-- [Predicting Modeling Hydropower Consumption using *k*-Nearest Neighbors Regression](#predicting-modeling-hydropower-consumption-using-k-nearest-neighbors-regression)
   - [📖 Table of Contents](#-table-of-contents)
   - [📌 Overview](#-overview)
   - [📊 Dataset](#-dataset)
