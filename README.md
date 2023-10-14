@@ -1,4 +1,4 @@
-# Predicting Modeling Hydropower Consumption using *k*-Nearest Neighbors Regression
+# Predicting Hydropower Consumption using *k*-Nearest Neighbors Regression
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/jorgesandoval/hydropower-regression-knn.svg)
